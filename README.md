@@ -1,1 +1,1 @@
-This is a basic Query String Filtering. I watched a video which is uploaded on laracast. I copied it for learn and test purpose. The video link is here. [Dedicated Query String Filtering] (https://laracasts.com/series/eloquent-techniques/episodes/4)
+This is a basic Query String Filtering. I watched a video which is uploaded on laracast. I copied it for learn and test purpose. The video link is here. [Dedicated Query String Filtering](https://laracasts.com/series/eloquent-techniques/episodes/4)
